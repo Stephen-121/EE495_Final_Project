@@ -21,3 +21,6 @@ cd-PINN is particularly suitable for scenarios where robust generalization acros
 - **Engineering and Physics Simulations**: Fast surrogate modeling for heat transfer, diffusion–reaction systems, fluid dynamics, and related PDE-governed processes.
 
 By explicitly embedding the continuous dependence structure of PDEs into neural network training, cd-PINN offers a simple yet powerful framework for elevating PINNs from equation solvers to reliable, data-efficient operator learners.
+
+reference:
+Li, G., Ran, S., Yang, W. et al. Improving generalization ability of deep-learning-based ODE solvers using continuous dependence. npj Artif. Intell. 1, 22 (2025). https://doi.org/10.1038/s44387-025-00026-6
